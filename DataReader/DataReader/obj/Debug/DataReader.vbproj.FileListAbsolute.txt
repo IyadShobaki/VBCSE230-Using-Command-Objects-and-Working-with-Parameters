@@ -1,0 +1,14 @@
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\DataReader\DataReader\bin\Debug\NORTHWND.MDF
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\DataReader\DataReader\bin\Debug\NORTHWND_log.ldf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\DataReader\DataReader\bin\Debug\DataReader.exe.config
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\DataReader\DataReader\bin\Debug\DataReader.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\DataReader\DataReader\bin\Debug\DataReader.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\DataReader\DataReader\bin\Debug\DataReader.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\DataReader\DataReader\obj\Debug\DataReader.vbprojAssemblyReference.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\DataReader\DataReader\obj\Debug\DataReader.Form1.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\DataReader\DataReader\obj\Debug\DataReader.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\DataReader\DataReader\obj\Debug\DataReader.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\DataReader\DataReader\obj\Debug\DataReader.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\DataReader\DataReader\obj\Debug\DataReader.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\DataReader\DataReader\obj\Debug\DataReader.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\DataReader\DataReader\obj\Debug\DataReader.pdb

@@ -1,0 +1,14 @@
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\ParametersExample\ParametersExample\bin\Debug\NORTHWND.MDF
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\ParametersExample\ParametersExample\bin\Debug\NORTHWND_log.ldf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\ParametersExample\ParametersExample\bin\Debug\ParametersExample.exe.config
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\ParametersExample\ParametersExample\bin\Debug\ParametersExample.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\ParametersExample\ParametersExample\bin\Debug\ParametersExample.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\ParametersExample\ParametersExample\bin\Debug\ParametersExample.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\ParametersExample\ParametersExample\obj\Debug\ParametersExample.vbprojAssemblyReference.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\ParametersExample\ParametersExample\obj\Debug\ParametersExample.Form1.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\ParametersExample\ParametersExample\obj\Debug\ParametersExample.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\ParametersExample\ParametersExample\obj\Debug\ParametersExample.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\ParametersExample\ParametersExample\obj\Debug\ParametersExample.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\ParametersExample\ParametersExample\obj\Debug\ParametersExample.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\ParametersExample\ParametersExample\obj\Debug\ParametersExample.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\ParametersExample\ParametersExample\obj\Debug\ParametersExample.pdb

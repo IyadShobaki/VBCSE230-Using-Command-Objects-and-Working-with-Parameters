@@ -1,0 +1,14 @@
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\AddingToDataBase\AddingToDataBase\bin\Debug\NORTHWND.MDF
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\AddingToDataBase\AddingToDataBase\bin\Debug\NORTHWND_log.ldf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\AddingToDataBase\AddingToDataBase\bin\Debug\AddingToDataBase.exe.config
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\AddingToDataBase\AddingToDataBase\bin\Debug\AddingToDataBase.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\AddingToDataBase\AddingToDataBase\bin\Debug\AddingToDataBase.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\AddingToDataBase\AddingToDataBase\bin\Debug\AddingToDataBase.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\AddingToDataBase\AddingToDataBase\obj\Debug\AddingToDataBase.vbprojAssemblyReference.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\AddingToDataBase\AddingToDataBase\obj\Debug\AddingToDataBase.Form1.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\AddingToDataBase\AddingToDataBase\obj\Debug\AddingToDataBase.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\AddingToDataBase\AddingToDataBase\obj\Debug\AddingToDataBase.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\AddingToDataBase\AddingToDataBase\obj\Debug\AddingToDataBase.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\AddingToDataBase\AddingToDataBase\obj\Debug\AddingToDataBase.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\AddingToDataBase\AddingToDataBase\obj\Debug\AddingToDataBase.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\AddingToDataBase\AddingToDataBase\obj\Debug\AddingToDataBase.pdb

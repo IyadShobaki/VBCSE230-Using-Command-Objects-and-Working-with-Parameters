@@ -1,0 +1,791 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DataReader
+</name>
+</assembly>
+<members>
+<member name="T:DataReader.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DataReader.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DataReader.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CategoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustomerCustomerDemoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustomerDemographicsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustomersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.EmployeesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.EmployeeTerritoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Order_DetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.OrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.RegionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.ShippersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.SuppliersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.TerritoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Alphabetical_list_of_productsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Category_Sales_for_1997DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Current_Product_ListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Customer_and_Suppliers_by_CityDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.InvoicesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Order_Details_ExtendedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Order_SubtotalsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Orders_QryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Product_Sales_for_1997DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Products_Above_Average_PriceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Products_by_CategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Quarterly_OrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Sales_by_CategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Sales_Totals_by_AmountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Summary_of_Sales_by_QuarterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Summary_of_Sales_by_YearDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustOrderHistDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustOrdersDetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustOrdersOrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Employee_Sales_by_CountryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Sales_by_YearDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.SalesByCategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Ten_Most_Expensive_ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CategoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustomerCustomerDemoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustomerDemographicsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustomersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.EmployeesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.EmployeeTerritoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Order_DetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.OrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.RegionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.ShippersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.SuppliersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.TerritoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Alphabetical_list_of_productsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Category_Sales_for_1997Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Current_Product_ListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Customer_and_Suppliers_by_CityRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.InvoicesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Order_Details_ExtendedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Order_SubtotalsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Orders_QryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Product_Sales_for_1997Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Products_Above_Average_PriceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Products_by_CategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Quarterly_OrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Sales_by_CategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Sales_Totals_by_AmountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Summary_of_Sales_by_QuarterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Summary_of_Sales_by_YearRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustOrderHistRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustOrdersDetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustOrdersOrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Employee_Sales_by_CountryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Sales_by_YearRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.SalesByCategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Ten_Most_Expensive_ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CategoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustomerCustomerDemoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustomerDemographicsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustomersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.EmployeesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.EmployeeTerritoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Order_DetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.OrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.RegionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.ShippersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.SuppliersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.TerritoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Alphabetical_list_of_productsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Category_Sales_for_1997RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Current_Product_ListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Customer_and_Suppliers_by_CityRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.InvoicesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Order_Details_ExtendedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Order_SubtotalsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Orders_QryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Product_Sales_for_1997RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Products_Above_Average_PriceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Products_by_CategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Quarterly_OrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Sales_by_CategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Sales_Totals_by_AmountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Summary_of_Sales_by_QuarterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Summary_of_Sales_by_YearRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustOrderHistRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustOrdersDetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.CustOrdersOrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Employee_Sales_by_CountryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Sales_by_YearRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.SalesByCategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSet.Ten_Most_Expensive_ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.CategoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.CustomerCustomerDemoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.CustomerDemographicsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.CustomersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.EmployeesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.EmployeeTerritoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Order_DetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.OrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.RegionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.ShippersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.SuppliersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.TerritoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Alphabetical_list_of_productsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Category_Sales_for_1997TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Current_Product_ListTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Customer_and_Suppliers_by_CityTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.InvoicesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Order_Details_ExtendedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Order_SubtotalsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Orders_QryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Product_Sales_for_1997TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Products_Above_Average_PriceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Products_by_CategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Quarterly_OrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Sales_by_CategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Sales_Totals_by_AmountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Summary_of_Sales_by_QuarterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Summary_of_Sales_by_YearTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.CustOrderHistTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.CustOrdersDetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.CustOrdersOrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Employee_Sales_by_CountryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Sales_by_YearTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.SalesByCategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.Ten_Most_Expensive_ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:DataReader.NORTHWNDDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(DataReader.NORTHWNDDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:DataReader.NORTHWNDDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(DataReader.NORTHWNDDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:DataReader.NORTHWNDDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(DataReader.NORTHWNDDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:DataReader.NORTHWNDDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:DataReader.NORTHWNDDataSetTableAdapters.TableAdapterManager.UpdateAll(DataReader.NORTHWNDDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:DataReader.NORTHWNDDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

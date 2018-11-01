@@ -1,0 +1,14 @@
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\Transactions\Transactions\bin\Debug\bank.mdf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\Transactions\Transactions\bin\Debug\bank_log.ldf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\Transactions\Transactions\bin\Debug\Transactions.exe.config
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\Transactions\Transactions\bin\Debug\Transactions.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\Transactions\Transactions\bin\Debug\Transactions.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\Transactions\Transactions\bin\Debug\Transactions.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\Transactions\Transactions\obj\Debug\Transactions.vbprojAssemblyReference.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\Transactions\Transactions\obj\Debug\Transactions.Form1.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\Transactions\Transactions\obj\Debug\Transactions.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\Transactions\Transactions\obj\Debug\Transactions.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\Transactions\Transactions\obj\Debug\Transactions.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\Transactions\Transactions\obj\Debug\Transactions.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\Transactions\Transactions\obj\Debug\Transactions.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\Transactions\Transactions\obj\Debug\Transactions.pdb

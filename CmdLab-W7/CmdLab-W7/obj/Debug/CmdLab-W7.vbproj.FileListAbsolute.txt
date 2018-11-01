@@ -1,0 +1,14 @@
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\CmdLab-W7\CmdLab-W7\bin\Debug\People.mdf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\CmdLab-W7\CmdLab-W7\bin\Debug\People_log.ldf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\CmdLab-W7\CmdLab-W7\bin\Debug\CmdLab-W7.exe.config
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\CmdLab-W7\CmdLab-W7\bin\Debug\CmdLab-W7.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\CmdLab-W7\CmdLab-W7\bin\Debug\CmdLab-W7.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\CmdLab-W7\CmdLab-W7\bin\Debug\CmdLab-W7.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\CmdLab-W7\CmdLab-W7\obj\Debug\CmdLab-W7.vbprojAssemblyReference.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\CmdLab-W7\CmdLab-W7\obj\Debug\CmdLab_W7.Form1.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\CmdLab-W7\CmdLab-W7\obj\Debug\CmdLab_W7.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\CmdLab-W7\CmdLab-W7\obj\Debug\CmdLab-W7.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\CmdLab-W7\CmdLab-W7\obj\Debug\CmdLab-W7.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\CmdLab-W7\CmdLab-W7\obj\Debug\CmdLab-W7.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\CmdLab-W7\CmdLab-W7\obj\Debug\CmdLab-W7.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week7\CmdLab-W7\CmdLab-W7\obj\Debug\CmdLab-W7.pdb
